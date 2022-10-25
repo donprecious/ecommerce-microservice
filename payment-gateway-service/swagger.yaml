@@ -1,0 +1,15 @@
+tags:
+- name: payment-gateway
+  description:  payment-gateway API
+
+paths:
+# customers 
+  
+
+# definitions
+definitions:
+  
+
+schemes:
+ - https
+ - http

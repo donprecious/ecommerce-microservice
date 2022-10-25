@@ -1,0 +1,18 @@
+version: "3"
+services:
+  customerservice:
+    build:
+      context: ./customer-service
+    image: customerservice
+  productservice:
+    build:
+      context: ./product-service
+    image: productservice
+  orderservice:
+    build:
+      context: ./order-service
+    image: orderservice
+  paymentgatewayservice:
+    build:
+      context: ./payment-gateway-service
+    image: paymentgatewayservice

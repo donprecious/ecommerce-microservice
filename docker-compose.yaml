@@ -1,0 +1,14 @@
+version: "3"
+services:
+  customerservice:
+    image: customerservice
+
+  productservice:
+    image: productservice
+
+  orderservice:
+    image: orderservice
+
+  paymentgatewayservice:
+    image: paymentgatewayservice
+

@@ -1,0 +1,15 @@
+tags:
+- name: Product 
+  description:  product API
+
+paths:
+# customers 
+  
+
+# definitions
+definitions:
+  
+
+schemes:
+ - https
+ - http

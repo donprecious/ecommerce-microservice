@@ -1,0 +1,15 @@
+tags:
+- name: orders
+  description: orders api API
+
+paths:
+# customers 
+  
+
+# definitions
+definitions:
+  
+
+schemes:
+ - https
+ - http
